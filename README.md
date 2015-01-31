@@ -4,7 +4,7 @@ http://cosmicsearch.org/openchat
 
 # Info of projects
 
-https://github/ilovecode1/wiki/wiki
+https://github.com/ilovecode1/wiki/wiki
 
 # Bug Reports
 
