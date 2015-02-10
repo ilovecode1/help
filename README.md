@@ -6,6 +6,10 @@ http://ilovecode1.github.io/site
 
 http://cosmicsearch.org/openchat
 
+or
+
+http://webchat.freenode.net?randomnick=1&channels=%23cosmicopen
+
 # Info of projects
 
 https://github.com/ilovecode1/wiki/wiki
