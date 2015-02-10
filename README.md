@@ -21,3 +21,7 @@ Bug Reports are at the project page!
 #Code Help
 
 http://cosmicsearch.org/code
+
+#chat
+
+<iframe src="http://webchat.freenode.net?randomnick=1&channels=%23openchat2&uio=MTI9dHJ1ZQ64" width="647" height="400"></iframe>
