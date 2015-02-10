@@ -4,11 +4,11 @@ http://ilovecode1.github.io/site
 
 # Community Help
 
-http://cosmicsearch.org/openchat
+http://webchat.freenode.net?randomnick=1&channels=%23cosmicopen
 
 or
 
-http://webchat.freenode.net?randomnick=1&channels=%23cosmicopen
+http://webchat.freenode.net?randomnick=1&channels=%23openchat2&uio=MTI9dHJ1ZQ64
 
 # Info of projects
 
@@ -22,6 +22,4 @@ Bug Reports are at the project page!
 
 http://cosmicsearch.org/code
 
-#chat
 
-<iframe src="http://webchat.freenode.net?randomnick=1&channels=%23openchat2&uio=MTI9dHJ1ZQ64" width="647" height="400"></iframe>
