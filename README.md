@@ -1,6 +1,6 @@
 #Offical Site
 
-http://ilovecode1.github.io/site
+http://cosmicsearch.org/opensource
 
 # Community Help
 
@@ -16,10 +16,7 @@ https://github.com/ilovecode1/wiki/wiki
 
 # Bug Reports
 
-Bug Reports are at the project page!
+https://github.com/ilovecode1/bugs
 
-#Code Help
-
-http://cosmicsearch.org/code
 
 
